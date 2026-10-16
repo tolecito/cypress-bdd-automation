@@ -1,0 +1,31 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Ignored default folder with query files
+/queries/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# IDE
+.idea/
+
+# Reportes de Allure
+allure-report/
+allure-results/
+
+# Dependencias de Node.js
+node_modules/
+
+# Evidencias generadas por Cypress
+cypress/screenshots/
+cypress/videos/
+
+# Variables de entorno
+.env
+.env.*
